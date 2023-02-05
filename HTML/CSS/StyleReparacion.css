@@ -1,0 +1,28 @@
+.Mecanicas{
+    border:5px solid rgb(161, 95, 48);
+    margin-top: 20px;
+}
+
+body{
+    background-color: azure;
+}
+
+.tituloh1{
+    color: blue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+#titulo{
+    color: blue;
+}
+
+
+.ReparEstilo{
+    background: rgb(255, 238, 0);
+
+}
+
+
+
